@@ -23,6 +23,6 @@ class ExampleInstrumentedTest {
     }
 }
 // Tanggal Pengerjaan: 16 April 2025
-// NIM: 10122047
-// Nama: Syipa Afiyani
+// NIM: 10122059
+// Nama: Difa Nugraha
 // Kelas: Andro 4
